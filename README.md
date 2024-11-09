@@ -1,6 +1,9 @@
 # 3d-portfolio
 personal 3d-portfolio for LEAD 5.0 event organized by IEEE student branch of BIT MESRA 
 =======
+## currently hosted at
+https://stupendous-boba-2487a2.netlify.app/
+
 enjoy the space dark theme of the website 
 
 problems i'm into:-
