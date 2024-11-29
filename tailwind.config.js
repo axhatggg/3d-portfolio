@@ -12,6 +12,7 @@ export default {
         float2: 'float 8s ease-in-out infinite',
         float3: 'float 7s ease-in-out infinite',
         float4: 'float 5s ease-in-out infinite',
+        
       },
       colors: {
         gray: {

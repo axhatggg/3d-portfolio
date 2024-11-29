@@ -32,9 +32,9 @@ const renderContent={
         />
     ),
     4:(
-        <InfoBox text="In case you want to Contact me"
+        <InfoBox text="My codeforces profile"
         link="/contact"
-        btnText="Let's Talk"
+        btnText="Profile"
         />
     ),
 }

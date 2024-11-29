@@ -7,6 +7,7 @@ const Projects = () => {
  return (
   <>
   <h1 className='projectss relative top-10 mt-16 text-6xl'>Projects</h1>
+  <div className="mt-9"></div>
   <div className="container flex md:flex-row flex-col justify-around items-center relative z-[1]">
      <div className="card">
         <div className="slide slide1">
